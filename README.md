@@ -1,5 +1,5 @@
 
-# Serverless-e-commerce
+# Google sheets database e-commerce
 
 **In progress...**
 
